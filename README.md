@@ -1,6 +1,6 @@
 ### ✨Welcome to my Profile✨
 
-I'm a Computer Engineering student at Mcgill University with a big interest in software development. I'm currently focusing on improving my knowledge in software development as well as getting familiar with more languages. Aside from working on university projects, I am not currently working on any personal projects although I would like to get started on a small one very soon!
+I'm a Computer Engineering student at McGill University with a big interest in software development. I'm currently focusing on improving my knowledge in software development as well as getting familiar with more languages. Aside from working on university projects, I am not currently working on any personal projects although I would like to get started on a small one very soon!
 
 ### Languages/Tools 
 <i>These are the languages and tools I'm familiar with or have worked with to some capacity. They are not listed in any particular order. <br> Java is the language I'm most familiar working with.</i><br><br>
