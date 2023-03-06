@@ -1,5 +1,5 @@
 ### Ralph Choucha
-
+<b>Welcome to my profile!<\b>
 I'm a Computer Engineering student at Mcgill University. I'm currently focusing on improving my knowledge in software development as well as getting familiar with more languages. I am not currently working on any personal projects although I would like to get started on a small project very soon!
 
 ### Languages and Tools I'm familiar with/ Have worked with to some capacity
