@@ -1,4 +1,4 @@
-### ✨Welcome to my Profile✨
+### Welcome to my Profile
 
 I'm a Computer Engineering student at McGill University with a big interest in software development. I'm currently focusing on improving my knowledge in software development as well as getting familiar with more languages. Aside from working on university projects, I am not currently working on any personal projects although I would like to get started on a small one very soon!
 
