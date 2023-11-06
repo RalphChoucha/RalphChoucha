@@ -13,7 +13,7 @@ I'm a Computer Engineering student at McGill University with an interest in soft
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Cucumber" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
 <img align="left" alt="R" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-
+<img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
 <!--
 **RalphChoucha/RalphChoucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
